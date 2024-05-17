@@ -1,0 +1,11 @@
+body{
+  background: linear-gradient(to left, rgb(171, 171, 171),white);
+  background-size: cover;
+}
+.searchResult{
+  margin-left: 50px;
+}
+.contact{
+  margin-top: -15px;
+}
+
