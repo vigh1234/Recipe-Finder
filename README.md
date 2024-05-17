@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-##package sneed to be installed: redux,styled components, MaterialUI(v 5.15.18)
-## Available Scripts
 
+## Available Scripts
+##package need to be installed: redux,styled components, MaterialUI(v 5.15.18)
 In the project directory, you can run:
 
 ### `npm start`
